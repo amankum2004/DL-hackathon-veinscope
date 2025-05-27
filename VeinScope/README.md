@@ -1,5 +1,4 @@
 <div align="center">
-   <img src="readme_assets/banner.gif"/>
    <h1>Casca - Your Eye, Your Doorstep</h1>
 </div>
 <div align="center">
