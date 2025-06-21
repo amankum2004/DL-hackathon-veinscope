@@ -11,6 +11,7 @@ veinscope
 </div>
 
 
+
 Ever had a doctor examine your eye veins? Turns out, those veins can reveal early signs of various medical conditions.
 
 Introducing Casca — our deep learning-based solution built during the hackathon. Casca segments eye veins from real-world eye images and extracts meaningful medical insights from their structure.
@@ -19,7 +20,7 @@ We took on the challenge of adapting nnUNet, a model originally designed for med
 
 It was an intense 36-hour journey packed with learning, debugging, and innovation. While I hoped for an even better outcome, the experience was incredibly rewarding and insightful.
 
-Huge thanks to my amazing teammates — Md Farhan, Gaurav Kushwaha, ROHIT Sailpar, Aman Kumar, and Pranav Raj. It was pleasure working with all of you, and I look forward to many more collaboration in the future.
+Huge thanks to my amazing teammates — Md Farhan, Gaurav Kushwaha, Rohit Sailpar, Niwesh Sah, and Pranav Raj. It was pleasure working with all of you, and I look forward to many more collaboration in the future.
 
 A special shoutout to Prof. Aditya Nigam and Prof. Arnav Bhavsar for organizing such a fantastic opportunity!
 
